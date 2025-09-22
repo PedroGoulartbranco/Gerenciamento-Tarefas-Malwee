@@ -5,6 +5,7 @@ h1 {
 
 body {
     background: linear-gradient(to right, blue, rgba(0, 0, 0, 0.178));
+    text-align: center;
 }
 
 .botao_adicionar {
