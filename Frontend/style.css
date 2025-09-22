@@ -6,3 +6,10 @@ h1 {
 body {
     background: linear-gradient(to right, blue, rgba(0, 0, 0, 0.178));
 }
+
+.botao_adicionar {
+    width: 30vh;
+    height: 10vh;
+    text-align: center;
+    font-size: 4vh;
+}
