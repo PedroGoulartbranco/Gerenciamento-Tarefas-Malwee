@@ -1,8 +1,8 @@
 h1 {
     text-align: center;
-    font-size: 500vh;
+    font-size: 10vh;
 }
 
 body {
-    background-color: blue;
+    background: linear-gradient(to right, blue, rgba(0, 0, 0, 0.178));
 }
