@@ -1,4 +1,8 @@
 h1 {
     text-align: center;
-    font-size: 5000000000000000000vh;
+    font-size: 500vh;
+}
+
+body {
+    background-color: blue;
 }
